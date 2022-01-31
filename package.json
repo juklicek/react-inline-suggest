@@ -1,19 +1,19 @@
 {
-  "name": "react-inline-suggest",
-  "version": "2.0.0-rc.1",
+  "name": "react-inline-suggest-extended",
+  "version": "0.0.1",
   "description": "A simple inline autosuggest input",
   "author": {
-    "name": "Maciej Kański",
-    "email": "xmazu@yahoo.com"
+    "name": "jan.juklicek",
+    "email": "jan.juklicek@solwee.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xmazu/react-inline-suggest"
+    "url": "https://github.com/juklicek/react-inline-suggest"
   },
   "bugs": {
-    "url": "https://github.com/xmazu/react-inline-suggest/issues"
+    "url": "https://github.com/juklicek/react-inline-suggest/issues"
   },
-  "homepage": "https://xmazu.github.io/react-inline-suggest/",
+  "homepage": "https://xxx/react-inline-suggest/",
   "license": "MIT",
   "keywords": [
     "react",
